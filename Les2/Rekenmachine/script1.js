@@ -2,6 +2,8 @@
     let mijnButton = document.getElementById('mijnButton');
     let optellen = document.getElementById('optellen');
     let vermenigvuldigen = document.getElementById('vermenigvuldigen');
+    let aftrekken = document.getElementById('aftrekken');
+    let delen = document.getElementById('delen');
     mijnButton.addEventListener('click', function(){
         // lees de waarden van de text input velden in 
         // let op DIT ZIJN STRINGS
